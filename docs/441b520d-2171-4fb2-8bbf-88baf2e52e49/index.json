@@ -1,9 +1,9 @@
 {
     "dt-id": "https://dtid.org/441b520d-2171-4fb2-8bbf-88baf2e52e49",
-    "hosting-iri": "https://twinbase.github.io/twinbase/441b520d-2171-4fb2-8bbf-88baf2e52e49",
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-office/441b520d-2171-4fb2-8bbf-88baf2e52e49",
     "name": "Andr\u00e9 Delorme Cr\u00e9mant de Bourgogne Brut",
     "description": "Sparkling wine given to Twinbase at office housewarming party on 28 June 2023",
-    "baseurl": "https://twinbase.github.io/twinbase",
-    "edit": "https://github.com/twinbase/twinbase/edit/main/docs/441b520d-2171-4fb2-8bbf-88baf2e52e49/index.yaml",
-    "edit-json": "https://github.com/twinbase/twinbase/edit/main/docs/441b520d-2171-4fb2-8bbf-88baf2e52e49/index.json"
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-office",
+    "edit": "https://github.com/juusoautiosalo/twinbase-office/edit/main/docs/441b520d-2171-4fb2-8bbf-88baf2e52e49/index.yaml",
+    "edit-json": "https://github.com/juusoautiosalo/twinbase-office/edit/main/docs/441b520d-2171-4fb2-8bbf-88baf2e52e49/index.json"
 }

@@ -1,9 +1,9 @@
 {
     "dt-id": "https://dtid.org/cdfcdca4-4baa-4bb0-b89b-d509466fd550",
-    "hosting-iri": "https://twinbase.github.io/twinbase/cdfcdca4-4baa-4bb0-b89b-d509466fd550",
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-office/cdfcdca4-4baa-4bb0-b89b-d509466fd550",
     "name": "Trimble mug",
     "description": "Trimble mug given to Twinbase at office housewarming party on 28 June 2023",
-    "baseurl": "https://twinbase.github.io/twinbase",
-    "edit": "https://github.com/twinbase/twinbase/edit/main/docs/cdfcdca4-4baa-4bb0-b89b-d509466fd550/index.yaml",
-    "edit-json": "https://github.com/twinbase/twinbase/edit/main/docs/cdfcdca4-4baa-4bb0-b89b-d509466fd550/index.json"
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-office",
+    "edit": "https://github.com/juusoautiosalo/twinbase-office/edit/main/docs/cdfcdca4-4baa-4bb0-b89b-d509466fd550/index.yaml",
+    "edit-json": "https://github.com/juusoautiosalo/twinbase-office/edit/main/docs/cdfcdca4-4baa-4bb0-b89b-d509466fd550/index.json"
 }
